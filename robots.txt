@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saeedrafieyan.github.io/sitemap.xml
+Sitemap: https://raf.github.io/sitemap.xml
