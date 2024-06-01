@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  text-align: justify; /* Added this line to justify text */
 }
 
 hr {
@@ -27,6 +28,7 @@ table {
   td,
   th {
     font-size: 1rem;
+    text-align: justify; /* Added this line to justify text in tables */
   }
 
   th {
@@ -61,9 +63,11 @@ blockquote {
   margin: 1.5em 0;
   padding: 1em;
   font-size: 1.2rem;
+  text-align: justify; /* Added this line to justify blockquotes */
 
   p {
     margin-bottom: 0;
+    text-align: justify; /* Added this line to justify text inside blockquotes */
   }
 
   /* Tips, warnings, and dangers blockquotes */
@@ -1122,4 +1126,10 @@ ninja-keys {
 
 ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
+}
+
+
+/* Justify text for all paragraphs */
+p {
+  text-align: justify;
 }
