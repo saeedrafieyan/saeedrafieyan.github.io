@@ -12,10 +12,10 @@ h4,
 h5,
 h6,
 em,
-div,
-li,
-span,
-strong {
+div:not(.certificates-section),
+li:not(.certificates-section),
+span:not(.certificates-section),
+strong:not(.certificates-section) {
   color: var(--global-text-color);
   text-align: justify; /* Added this line to justify text */
 }
@@ -684,7 +684,7 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var (--global-theme-color);
           margin-bottom: 0.5rem;
 
           a {
@@ -697,8 +697,8 @@ footer.sticky-bottom {
         }
 
         .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
+          color: var (--global-theme-color) !important;
+          border: 1px solid var (--global-theme-color);
         }
       }
 
@@ -1129,7 +1129,34 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 
-/* Justify text for all paragraphs */
-p {
+/* Justify text for all paragraphs except certificates section */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+em,
+div:not(.certificates-section),
+li:not(.certificates-section),
+span:not(.certificates-section),
+strong:not(.certificates-section) {
   text-align: justify;
+}
+
+/* Ensure certificates section is not justified */
+.certificates-section p,
+.certificates-section h1,
+.certificates-section h2,
+.certificates-section h3,
+.certificates-section h4,
+.certificates-section h5,
+.certificates-section h6,
+.certificates-section em,
+.certificates-section div,
+.certificates-section li,
+.certificates-section span,
+.certificates-section strong {
+  text-align: left;
 }

@@ -1,6 +1,6 @@
 <div class="list-groups">
-  {% for content in data[1] %}
-    <div class="list-group col-md-6">
+  {% for content in site.data.resume.references %}
+    <div class="list-group">
       <table class="table-cv list-group-table">
         <tbody>
           <tr>
@@ -11,17 +11,20 @@
             {% else %}
               <td class="list-group-category-icon"></td>
             {% endif %}
-            <!-- Calculate colspan number for category title -->
-            {% assign i = 1 %}
-            {% for item in content.items %}
-              {% assign i = i | plus: 1 %}
-            {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td class="list-group-category">
+              <a href="{{ content.url }}" target="_blank">{{ content.name }}</a>
+            </td>
           </tr>
           <tr>
             <td></td>
             <td class="list-group-name">
               <b>{{ content.reference }}</b>
+              {% if content.email %}
+                <br><span>Email: {{ content.email }}</span>
+              {% endif %}
+              {% if content.phone %}
+                <br><span>Phone: {{ content.phone }}</span>
+              {% endif %}
             </td>
           </tr>
         </tbody>

@@ -123,122 +123,158 @@
       "endDate": "2021-07",
       "summary": "I worked on developing a text-to-speech system for the Persian language and focused on Persian natural language processing.",
       "highlights": ["Transformers, NLP"]
+    },
+    {
+      "name": "Mapsa",
+      "position": "Django Web Developer Intern",
+      "url": "https://bootcamp.mapsahr.com/",
+      "startDate": "2020-08",
+      "endDate": "2020-10",
+      "summary": "In this internship, I learned how to manage datasets and develop a website backend and its APIs.",
+      "highlights": ["Dataset development, Backend"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Iran Biomaterial and Tissue Engineering Society",
+      "location": "Tehran, Iran",
+      "position": "Member",
+      "url": "https://www.linkedin.com/in/ibtes",
+      "startDate": "2023-01-01",
+      "endDate": "present",
+      "summary": ""
+    },
+    {
+      "organization": " Iran Chemical Engineering Society",
+      "location": "Tehran, Iran",
+      "position": "Member",
+      "url": "https://www.linkedin.com/company/iranian-association-of-chemical-engineering-iache/?originalSubdomain=ir",
+      "startDate": "2022-01-01",
+      "endDate": "present",
+      "summary": ""
     }
   ],
   
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "Achieved a top 2% ranking among over 10,000 participants in the nationwide graduate university entrance exam for a Master's degree in chemical engineering.",
+  //     "date": "2018",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Deep Learning with PyTorch : Object Localization",
+      "date": "2022-11",
+      "issuer": "coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/ATX792QD8SAV",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Python for Genomic Data Science",
+      "date": "2022-11",
+      "issuer": "coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/SCJ5QG4EDHCU",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Deep Learning with PyTorch : Image Segmentation",
+      "date": "2022-08",
+      "issuer": "coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/SZE6DSCJNTQ7",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Introduction to Genomic Technologies",
+      "date": "2022-08",
+      "issuer": "coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/664SE7XGM9GS",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Data Visualization using Plotly",
+      "date": "2022-08",
+      "issuer": "coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/6232QRVEUBJB",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Neural Networks and Deep Learning",
+      "date": "2020-11",
+      "issuer": "coursera",
+      "url": "https://www.coursera.org/verify/AELW9RNB9VFR",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computational Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Supervised and Unsupervised Machine Learning Algorithms",
+        "Deep Learning Algorithms",
+        "Natural Language Processing",
+        "Visualization libraries such as Matplotlib, Plotly, etc.",
+        "Pytorch Framework",
+        "Pandas, Numpy and Sklearn",
+        "Database Development"
+      ]
+    },
+    {
+      "name": "Lab Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Decellularization Protocols",
+        "Animal Cell Culture",
+        "Hydrogel Preparation",
+        "Scaffolds Fabrication"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Toefl Candidate, Doulingo: 110",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Persian",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Ebrahim Vasheghani-Farahani",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor, Department of Biomedical Engineering, Tarbiat Modares University",
+      "email": "evf@modares.ac.ir",
+      "phone": "+98(21)82883338",
+      "url": "https://www.modares.ac.ir/en-pro/academic_staff/evf"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Dr. Mohammad Fakhroleslam",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Assistant Professor, Department of Chemical Engineering, Tarbiat Modares University",
+      "email": "fakhroleslam@modares.ac.ir",
+      "phone": "+98(21)82883314",
+      "url": "https://www.modares.ac.ir/~fakhroleslam"
     }
   ]
+  // ,
+  // "projects": [
+  //   {
+  //     "name": "Quantum Computing",
+  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+  //     "startDate": "2018-01-01",
+  //     "endDate": "2018-01-01",
+  //     "url": "https://example.com"
+  //   }
+  // ]
 }
