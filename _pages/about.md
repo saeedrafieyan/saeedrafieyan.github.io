@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.modares.ac.ir/en-cheme/departments/biomedical-engineering'>Affiliations</a>. Department of Biomedical Engineering, Faculty of Chemical Engineering, Tarbiat Modares University, Tehran, Iran.
 
