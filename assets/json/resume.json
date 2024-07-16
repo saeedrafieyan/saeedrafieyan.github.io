@@ -60,12 +60,12 @@
   ],
   "publications": [
     {
-      "name": "A Practical Machine Learning Approach for Predicting the Quality of 3D (Bio)Printed Scaffolds (Under Review)",
+      "name": "A Practical Machine Learning Approach for Predicting the Quality of 3D (Bio)Printed Scaffolds",
       "journal": "biofabrication, IOPscience",
       "authors": "Rafieyan S., Ansari E., Vasheghani-Farahani E.",
       "publisher": "Biofabrication, IOPscience",
       "releaseDate": "2024-08",
-      "url": "https://iopscience.iop.org/journal/1758-5090",
+      "url": "https://iopscience.iop.org/article/10.1088/1758-5090/ad6374",
       "summary": ""
     },
     {
