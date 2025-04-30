@@ -60,6 +60,15 @@
   ],
   "publications": [
     {
+      "name": "Data-driven insights for enhanced cellulose conversion to 5-hydroxymethylfurfural using machine learning",
+      "journal": "Bioresource Technology, Elsevier",
+      "authors": "Rafieyan S., Ansari E., Vasheghani-Farahani E.",
+      "publisher": "Bioresource Technology, Elsevier",
+      "releaseDate": "2025-04",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960852425005486",
+      "summary": ""
+    },
+    {
       "name": "A Practical Machine Learning Approach for Predicting the Quality of 3D (Bio)Printed Scaffolds",
       "journal": "biofabrication, IOPscience",
       "authors": "Rafieyan S., Ansari E., Vasheghani-Farahani E.",
