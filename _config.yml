@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Saeed
-middle_name: 
+middle_name:
 last_name: Rafieyan
 email: Raf.Biomed@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Saeed Rafieyan Website.
-footer_text: 
+footer_text:
 keywords: Saeed Rafieyan, rafieyan, tissue engineering, machine learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon3.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/icon.png)
@@ -620,4 +620,3 @@ jsonresume:
   - languages
   - research interests
   - references
-

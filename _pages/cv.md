@@ -10,8 +10,8 @@ toc:
   sidebar: left
 ---
 
-
 {% for publication in site.data.resume.publications %}
+
   <div class="publication">
     <h3>{{ publication.name }}</h3>
     <p><strong>Journal:</strong> {{ publication.journal }}</p>
